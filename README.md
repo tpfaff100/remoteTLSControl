@@ -1,3 +1,4 @@
+Sample GOLANG code to remote control a unix machine as SUDO over a TLS socket 
 <pre>server_tls written 1/2025 by Thomas Pfaff
 
    Usage:
